@@ -1,0 +1,10 @@
+C:\Users\Alia\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.exe.config
+C:\Users\Alia\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.exe
+C:\Users\Alia\source\repos\SQLTester\SQLTester\bin\Debug\SQLTester.pdb
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csprojAssemblyReference.cache
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.frm_Tester.resources
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.Properties.Resources.resources
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csproj.GenerateResource.cache
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.csproj.CoreCompileInputs.cache
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.exe
+C:\Users\Alia\source\repos\SQLTester\SQLTester\obj\Debug\SQLTester.pdb
